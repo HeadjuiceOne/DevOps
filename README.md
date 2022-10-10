@@ -13,5 +13,5 @@ You can run this project with :
 
 
 ```
-~ npm test
+npm test
 ```
